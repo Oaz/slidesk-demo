@@ -1,0 +1,8 @@
+# label of the camera opened by the @gouz__webcam plugin
+# (use await navigator.mediaDevices.enumerateDevices() to list the labels)
+WEBCAM = ""
+
+[keypad]
+ADMIN_PASSWORD = "admin"
+API_URL = "/relay"
+TARGET = "https://slidesk-demo.azeau.com"

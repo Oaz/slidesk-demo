@@ -1,0 +1,14 @@
+#abcdef {
+    width: 80% !important;
+}
+
+.abcjs-highlight {
+    fill: #0a9ecc;
+}
+.abcjs-cursor {
+    stroke: red;
+}
+
+#abcdef_audio {
+    display: none;
+}

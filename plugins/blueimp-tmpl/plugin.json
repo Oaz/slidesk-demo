@@ -1,0 +1,12 @@
+{
+  "addScripts": [
+    "plugins/blueimp-tmpl/blueimp-tmpl-3.20.0.min.js",
+    "plugins/blueimp-tmpl/plugin.js"
+  ],
+  "addStyles": [
+    "plugins/blueimp-tmpl/style.css"
+  ],
+  "onSlideChange": "window.slidesk.blueimpTmpl(this);",
+  "files": ["blueimp-tmpl-3.20.0.min.js", "plugin.js", "style.css"],
+  "tags": ["templates"]
+}

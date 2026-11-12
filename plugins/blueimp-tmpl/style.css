@@ -1,0 +1,7 @@
+/* blueimp-tmpl: hide the raw ```blueimp-tmpl code block.
+   The plugin replaces it with the rendered template at runtime.
+   On error, plugin.js adds .blueimp-code--error to the code element,
+   which opts the block back into visibility so failures stay debuggable. */
+pre:has(> code.language-blueimp-tmpl:not(.blueimp-code--error)) {
+    display: none;
+}

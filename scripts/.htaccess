@@ -1,0 +1,7 @@
+# Disable directory listing in the scripts folder
+Options -Indexes
+
+# Deny access to everything except deploy.php (also protects .env if one is ever placed here)
+<FilesMatch "^(?!deploy\.php).+$">
+    Require all denied
+</FilesMatch>

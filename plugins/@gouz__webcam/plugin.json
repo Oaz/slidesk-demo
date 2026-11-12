@@ -1,0 +1,5 @@
+{
+	"addStyles": ["./plugins/@gouz__webcam/webcam.css"],
+	"addScripts": ["./plugins/@gouz__webcam/webcam.js"],
+	"addHTML": "<video autoplay id=webcam></video>"
+}

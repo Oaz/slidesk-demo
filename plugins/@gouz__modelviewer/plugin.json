@@ -1,0 +1,3 @@
+{
+  "addScriptModules": ["plugins/@gouz__modelviewer/model-viewer.min.js"]
+}

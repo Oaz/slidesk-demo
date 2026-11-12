@@ -1,0 +1,5 @@
+{
+  "addStyles": ["plugins/@gouz__abcjs/abcjs-audio.css", "plugins/@gouz__abcjs/abcjs.css"],
+  "addScripts": ["plugins/@gouz__abcjs/abcjs-basic-min.js", "plugins/@gouz__abcjs/abcjs.js"],
+  "onSlideChange": "window.slidesk.abc.newSlide();"
+}

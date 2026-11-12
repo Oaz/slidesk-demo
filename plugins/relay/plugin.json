@@ -1,0 +1,3 @@
+{
+  "addRoutes": "./plugins/relay/routes.mjs"
+}
